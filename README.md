@@ -28,10 +28,10 @@ Time spent: **4** hours spent in total
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
 3. (Required) Vulnerability Name or ID
   - [ ] Summary: 
-    - Vulnerability types:
-    - Tested in version:
+    - Vulnerability types:Input Sanitization Vulnerbility
+    - Tested in version:Version <= 4.2
     - Fixed in version: 
-  - [ ] GIF Walkthrough: 
+  - [ ] GIF Walkthrough: ![img](https://i.imgur.com/2jT2ySN.gif)
   - [ ] Steps to recreate: 
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
