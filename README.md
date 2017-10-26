@@ -11,7 +11,8 @@ Time spent: **4** hours spent in total
     - Vulnerability types: Input Sanitization Vulnerbility
     - Tested in version: Version less than or equal to 4.2
     - Fixed in version: 
-  - [ ] GIF Walkthrough:(https://i.imgur.com/gFhAACd.gif)
+  - [ ] GIF Walkthrough:
+  ![img](https://i.imgur.com/gFhAACd.gif)
   - [ ] Steps to recreate: 1. Create a new Post 2. On the title of the post create "a" tag with the event handler and insert the script inside the event handler.
   - [ ] Affected source code:
     - [Link 1](https://core.trac.wordpress.org/browser/tags/version/src/source_file.php)
